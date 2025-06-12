@@ -1,0 +1,20 @@
+{
+  "name": "conexy",
+  "description": "Conexy is a modern DiscordJS Framework that simplifies the development of Discord bots with TypeScript.",
+  "version": "0.0.1",
+  "packageManager": "yarn@4.9.2",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.30",
+    "memfs": "^4.17.2",
+    "typescript": "^5.8.3"
+  },
+  "peerDependencies": {
+    "discord.js": "^14.19.3"
+  }
+}
